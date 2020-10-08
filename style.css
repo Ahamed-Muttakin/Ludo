@@ -1,0 +1,19 @@
+
+.container{
+    border: 2px solid black;
+    width: 800px;
+    height: 524px;
+}
+#row img{
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+.col-1{
+    content: '';
+    border: 2px solid black;
+    padding:0 20px;
+    text-align: center;
+    
+}
